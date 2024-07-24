@@ -1,0 +1,1 @@
+# vuejs-static-generator
